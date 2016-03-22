@@ -1,0 +1,5 @@
+coverage
+factory_boy
+nose2
+pytest
+pytest-django
