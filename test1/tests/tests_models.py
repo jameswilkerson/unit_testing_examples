@@ -4,6 +4,7 @@ from nose.tools import nottest
 from ..models import Musician, Album, Instrument
 
 
+@nottest
 class BaseEntries(TestCase):
 
     def setUp(self):
